@@ -1,6 +1,7 @@
 # STLINK-V3_CMSIS-DAP
 cmsis dap for a stlink-v3mods
 
+Based on the work of [RadioOperator](https://github.com/RadioOperator)
 
 links  
 [stlink-v3mods (ST site)](https://www.st.com/en/development-tools/stlink-v3mods.html)  
